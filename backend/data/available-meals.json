@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Flamingo",
+    "price": "8.99",
+    "description": "NCERT English literature course book for class 12",
+    "image": "images/one.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Vistas",
+    "price": "12.99",
+    "description": "NCERT English literature course book for class 12",
+    "image": "images/two.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Mathematics Book Class 12",
+    "price": "7.99",
+    "description": "NCERT Mathematics Book Class 12",
+    "image": "images/three.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "History Book Class 10",
+    "price": "10.99",
+    "description": "NCERT History Book Class 10",
+    "image": "images/four.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Mathematics Book Book Class 10",
+    "price": "9.99",
+    "description": "NCERT Mathematics Book Book Class 10",
+    "image": "images/five.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Chemistry Book Class 10",
+    "price": "10.99",
+    "description": "NCERT Chemistry Book Class 10",
+    "image": "images/six.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Geography Book Class 10",
+    "price": "17.99",
+    "description": "NCERT Geography Book Class 10",
+    "image": "images/seven.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Hindi Book Class 12",
+    "price": "15.99",
+    "description": "NCERT Hindi Book Class 12",
+    "image": "images/eight.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Economics Book Class 10",
+    "price": "13.99",
+    "description": "NCERT Economics Book Class 10",
+    "image": "images/nine.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Physics Book Class 10",
+    "price": "11.99",
+    "description": "NCERT Physics Book Class 10",
+    "image": "images/ten.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Accountancy Book class 12",
+    "price": "19.99",
+    "description": "NCERT Accountancy Book class 12",
+    "image": "images/eleven.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Business Studies Book Class 12",
+    "price": "8.99",
+    "description": "NCERT Business Studies Book Class 12",
+    "image": "images/twelve.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Geograpghy Book Class 12",
+    "price": "12.99",
+    "description": "NCERT Geograpghy Book Class 12",
+    "image": "images/thirteen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Biology Book Class 10",
+    "price": "9.99",
+    "description": "NCERT Biology Book Class 10",
+    "image": "images/fourteen.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "English Book class 12",
+    "price": "5.99",
+    "description": "NCERT English Book class 12",
+    "image": "images/fifteen.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Politics Book Class 10",
+    "price": "14.99",
+    "description": "NCERT Politics Book Class 10",
+    "image": "images/sixteen.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "History Book Class 12",
+    "price": "13.99",
+    "description": "NCERT History Book Class 12",
+    "image": "images/seventeen.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Chemistry Book Class 12",
+    "price": "11.99",
+    "description": "NCERT Chemistry Book Class 12",
+    "image": "images/eighteen.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Physics Book Class 12",
+    "price": "6.99",
+    "description": "NCERT Physics Book Class 12",
+    "image": "images/ninteen.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "English Book Class 10",
+    "price": "8.99",
+    "description": "NCERT English Book Class 10",
+    "image": "images/twenty.jpg"
+  }
+]
